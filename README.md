@@ -5,7 +5,7 @@
   <!-- <source media="(prefers-color-scheme: dark)" srcset="[dark-mode-image.png](https://github.com/SNikitaSergeevic/SNikitaSergeevic/blob/main/output.gif)"> -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SNikitaSergeevic/SNikitaSergeevic/blob/main/output.gif">
-  <img src="[logo.png](https://github.com/SNikitaSergeevic/SNikitaSergeevic/blob/main/output.gif)" alt="coding" height="320" width="320" />
+  <img src="https://github.com/SNikitaSergeevic/SNikitaSergeevic/blob/main/output.gif" alt="coding" height="320" width="320" />
   <source media="(prefers-color-scheme: light)" srcset="output.png">
   <img alt="Fallback image description" src="output.png">
 </picture>
