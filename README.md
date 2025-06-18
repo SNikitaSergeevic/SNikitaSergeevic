@@ -16,17 +16,9 @@
   <img alt="matplotlib" src="https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff" />
   <img alt="postgresql" src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" />
   <img alt="airflow" src="https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=Apache%20Airflow&logoColor=white" />
-
-  
-  
-  
-  <img alt="anaconda" src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff" />
-  
   <img alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
   <img alt="bash" src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff" />
   <img alt="git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" />
-  
-  <img alt="numpy" src="https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff" />
 </p>
 
 <picture>
