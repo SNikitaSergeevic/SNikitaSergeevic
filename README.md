@@ -30,6 +30,9 @@
 - 📊 Data pipelines (Python, SQL, Spark, Airflow) and visualization (Matplotlib/Seaborn)
 - 🕵️♂️ Forensic Scientist: bridging data analysis and investigative analytics
 
+## How to reach me
+[![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snikitasergeevich@gamil.com)](snikitasergeevich@gamil.com)
+
 ## Stats
 
 <picture>
