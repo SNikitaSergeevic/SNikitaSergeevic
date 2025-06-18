@@ -1,6 +1,6 @@
 
 ## Hi there 👋
-<img align="right" alt="Coding" width="620" src="https://github.com/SNikitaSergeevic/SNikitaSergeevic/blob/main/output.gif">
+<\tb><img align="right" alt="Coding" width="620" src="https://github.com/SNikitaSergeevic/SNikitaSergeevic/blob/main/output.gif"><\tb>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SNikitaSergeevic&hide_progress=false&theme=dark)
 <!-- ![til](output.gif) -->
 
