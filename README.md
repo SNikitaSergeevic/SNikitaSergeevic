@@ -2,12 +2,16 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="greeting_dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="greeting_light.gif">
-
+  <img alt="Fallback image description" src="greeting_light.gif">
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SNikitaSergeevic&hide_progress=false&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SNikitaSergeevic&hide_progress=false&theme=light">
+  <img alt="Fallback image description" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SNikitaSergeevic&hide_progress=false&theme=light">
+</picture>
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SNikitaSergeevic&hide_progress=false&theme=dark)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SNikitaSergeevic&hide_progress=false&theme=dark) -->
 
 
 <!--
