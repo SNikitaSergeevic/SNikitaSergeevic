@@ -1,12 +1,12 @@
 
 ## Hi there 👋
 <!-- <t><img align="right" alt="Coding" width="620" src="https://github.com/SNikitaSergeevic/SNikitaSergeevic/blob/main/output.gif"> -->
-<picture>
+<t><picture>
   <!-- <source media="(prefers-color-scheme: dark)" srcset="[dark-mode-image.png](https://github.com/SNikitaSergeevic/SNikitaSergeevic/blob/main/output.gif)"> -->
   <source
     srcset="[dark-mode-image.png](https://github.com/SNikitaSergeevic/SNikitaSergeevic/blob/main/output.gif)"
     media="(orientation: portrait)" />
-  <img align="right" src="https://github.com/SNikitaSergeevic/SNikitaSergeevic/blob/main/output.gif" alt="" />
+  <img align="right" width="500" src="https://github.com/SNikitaSergeevic/SNikitaSergeevic/blob/main/output.gif" alt="" />
 
   
   <source media="(prefers-color-scheme: light)" srcset="light-mode-image.png">
