@@ -3,7 +3,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SNikitaSergeevic&hide_progress=false&theme=dark)
 <!-- ![til](output.gif) -->
-<img align="right" alt="Coding" width="400" src="https://github.com/SNikitaSergeevic/SNikitaSergeevic/blob/main/output.gif">
+<img align="right" alt="Coding" width="600" src="https://github.com/SNikitaSergeevic/SNikitaSergeevic/blob/main/output.gif">
 <!--
 **SNikitaSergeevic/SNikitaSergeevic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
