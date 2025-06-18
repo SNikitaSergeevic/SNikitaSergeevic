@@ -4,9 +4,9 @@
 
   <!-- <source media="(prefers-color-scheme: dark)" srcset="[dark-mode-image.png](https://github.com/SNikitaSergeevic/SNikitaSergeevic/blob/main/output.gif)"> -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="output.gif">
-  <!-- <source media="(prefers-color-scheme: light)" srcset="light-mode-image.png"> -->
-  <!-- <img alt="Fallback image description" src="default-image.png"> -->
+  <source media="(prefers-color-scheme: dark)" srcset="output.png">
+  <source media="(prefers-color-scheme: light)" srcset="light-mode-image.png">
+  <img alt="Fallback image description" src="default-image.png">
 </picture>
 
 
