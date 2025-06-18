@@ -1,17 +1,17 @@
 
 ## Hi there 👋
 <!-- <t><img align="right" alt="Coding" width="620" src="https://github.com/SNikitaSergeevic/SNikitaSergeevic/blob/main/output.gif"> -->
-<picture>
+
   <!-- <source media="(prefers-color-scheme: dark)" srcset="[dark-mode-image.png](https://github.com/SNikitaSergeevic/SNikitaSergeevic/blob/main/output.gif)"> -->
-  <source
-    srcset="[dark-mode-image.png](https://github.com/SNikitaSergeevic/SNikitaSergeevic/blob/main/output.gif)"
-    media="(orientation: portrait)" />
-  <img align="right" width="400" src="https://github.com/SNikitaSergeevic/SNikitaSergeevic/blob/main/output.gif" alt="" />
+<source
+  srcset="[dark-mode-image.png](https://github.com/SNikitaSergeevic/SNikitaSergeevic/blob/main/output.gif)"
+  media="(orientation: portrait)" />
+<img align="right" width="400" src="https://github.com/SNikitaSergeevic/SNikitaSergeevic/blob/main/output.gif" alt="" />
 
   
-  <source media="(prefers-color-scheme: light)" srcset="light-mode-image.png">
-  <img alt="Fallback image description" src="default-image.png">
-</picture>
+<source media="(prefers-color-scheme: light)" srcset="light-mode-image.png">
+<img alt="Fallback image description" src="default-image.png">
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SNikitaSergeevic&hide_progress=false&theme=dark)
 <!-- ![til](output.gif) -->
 
