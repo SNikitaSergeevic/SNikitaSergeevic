@@ -2,7 +2,7 @@
 ## Hi there 👋
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SNikitaSergeevic&hide_progress=false)
-![til](https://github.com/SNikitaSergeevic/SNikitaSergeevic/blob/main/animation.gif)
+![til](animation.gif)
 <!--
 **SNikitaSergeevic/SNikitaSergeevic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
