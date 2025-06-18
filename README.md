@@ -1,4 +1,5 @@
 ## Hi there 👋
+<img align="right" alt="Coding" width="400" src="https://github.com/SNikitaSergeevic/SNikitaSergeevic/blob/main/IMG_8428.MOV">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SNikitaSergeevic&hide_progress=false)
 <!--
 **SNikitaSergeevic/SNikitaSergeevic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
