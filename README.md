@@ -23,7 +23,6 @@
 
 ## About me
 
-- 🔬 Data Scientist | ML Engineer
 - 📚 M.Sc. at MIPT (Data Science & Applied Mathematics)
 - 🛠️ Hands-on experience in CV, NLP, classical ML, and model deployment (Telegram, Yandex.Cloud)
 - 🏆 Hackathon participant: DL for poultry disease diagnostics, time-series forecasting
