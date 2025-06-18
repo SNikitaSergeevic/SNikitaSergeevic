@@ -5,7 +5,7 @@
   <!-- <source media="(prefers-color-scheme: dark)" srcset="[dark-mode-image.png](https://github.com/SNikitaSergeevic/SNikitaSergeevic/blob/main/output.gif)"> -->
 <source
   srcset="[dark-mode-image.png](https://github.com/SNikitaSergeevic/SNikitaSergeevic/blob/main/output.gif)"
-  media="(orientation: portrait)" />
+  />
 <img align="right" width="600" src="https://github.com/SNikitaSergeevic/SNikitaSergeevic/blob/main/output.gif" alt="" />
 
   
