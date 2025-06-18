@@ -1,17 +1,15 @@
 
 ## Hi there 👋
-<!-- <t><img align="right" alt="Coding" width="620" src="https://github.com/SNikitaSergeevic/SNikitaSergeevic/blob/main/output.gif"> -->
-
-  <!-- <source media="(prefers-color-scheme: dark)" srcset="[dark-mode-image.png](https://github.com/SNikitaSergeevic/SNikitaSergeevic/blob/main/output.gif)"> -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SNikitaSergeevic/SNikitaSergeevic/blob/main/output.gif">
-  <img align="right" alt="Coding" width="620" src="https://github.com/SNikitaSergeevic/SNikitaSergeevic/blob/main/output.gif">
+  <source media="(prefers-color-scheme: dark)" srcset="dark-mode-image.png">
+  <source media="(prefers-color-scheme: light)" srcset="light-mode-image.png">
+  <img alt="Fallback image description" src="default-image.png">
 </picture>
 
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SNikitaSergeevic&hide_progress=false&theme=dark)
-<!-- ![til](output.gif) -->
+
 
 <!--
 **SNikitaSergeevic/SNikitaSergeevic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
