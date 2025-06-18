@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="700" src="https://github.com/SNikitaSergeevic/SNikitaSergeevic/blob/main/animation.gif">
+<img align="right" alt="Coding" width="200" src="https://github.com/SNikitaSergeevic/SNikitaSergeevic/blob/main/animation.gif">
 ## Hi there 👋
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SNikitaSergeevic&hide_progress=false)
