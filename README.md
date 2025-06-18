@@ -10,7 +10,7 @@
 
   
 <source media="(prefers-color-scheme: light)" srcset="light-mode-image.png">
-<img alt="Fallback image description" src="default-image.png">
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SNikitaSergeevic&hide_progress=false&theme=dark)
 <!-- ![til](output.gif) -->
