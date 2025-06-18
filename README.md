@@ -1,9 +1,8 @@
 
-## Hi there 👋
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="greeting_dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="greeting_light.gif">
-  <img alt="Fallback image description" src="greeting_light.gif">
+
 </picture>
 
 
