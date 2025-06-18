@@ -7,8 +7,8 @@
 
 ## Things I code with
 <p>
-  <img alt="python" src="https://img.shields.io/badge/-Python-8DD6F9?style=flat-square&logo=python" /> 
-  <img alt="python" src="https://img.shields.io/badge/-Python-8DC6F9?style=flat-square&scikit-learn" /> 
+  <img alt="python" src="https://img.shields.io/badge/-Python-8DC6F9?style=for-the-badge&logo=python" /> 
+  <img alt="sklearn" src="https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white" /> 
   
   
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
