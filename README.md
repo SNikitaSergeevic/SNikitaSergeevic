@@ -24,7 +24,7 @@
 ## About me
 
 - 📚 M.Sc. at MIPT (Data Science & Applied Mathematics)
-- 🛠️ Hands-on experience in CV, NLP, classical ML, and model deployment (Telegram, Yandex.Cloud)
+- 🛠️ Hands-on experience in NLP, RecSys, classical ML, and model deployment (Telegram, Yandex.Cloud)
 - 🏆 Hackathon participant: DL for poultry disease diagnostics, time-series forecasting
 - 📊 Data pipelines (Python, SQL, Spark, Airflow) and visualization (Matplotlib/Seaborn)
 - 🕵️♂️ Forensic Scientist: bridging data analysis and investigative analytics
