@@ -5,7 +5,7 @@
   <img alt="Fallback image description" src="greeting_light.gif">
 </picture>
 
-## Things I code with
+#### Things I code with
 <p>
   <img alt="python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" /> 
   <img alt="numpy" src="https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff" />
@@ -20,6 +20,13 @@
   <img alt="bash" src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff" />
   <img alt="git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" />
 </p>
+
+🔬 Data Scientist | ML Engineer
+📚 M.Sc. at MIPT (Data Science & Applied Mathematics)
+🛠️ Hands-on experience in CV, NLP, classical ML, and model deployment (Telegram, Yandex.Cloud)
+🏆 Hackathon participant: DL for poultry disease diagnostics, time-series forecasting
+📊 Data pipelines (Python, SQL, Spark, Airflow) and visualization (Matplotlib/Seaborn)
+🕵️♂️ Forensic Scientist: bridging data analysis and investigative analytics
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SNikitaSergeevic&hide_progress=false&theme=dark">
