@@ -7,7 +7,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SNikitaSergeevic/SNikitaSergeevic/blob/main/output.gif">
   <!-- <source media="(prefers-color-scheme: light)" srcset="light-mode-image.png"> -->
   <!-- <img alt="Fallback image description" src="default-image.png"> -->
-<\picture>
+</picture>
 
 
 
