@@ -30,7 +30,6 @@
 - 🕵️♂️ Forensic Scientist: bridging data analysis and investigative analytics
 
 ## Find me on
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white$link=https://www.linkedin.com/in/nikita-sysuev-697456370/)](https://www.linkedin.com/in/nikita-sysuev-697456370/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snikitasergeevich@gmail.com)](mailto:snikitasergeevich@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)](https://t.me/osmiljey)
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-squeare&logo=Kaggle&logoColor=white)](https://www.kaggle.com/snikits)
@@ -50,7 +49,7 @@
 
 <!--
 **SNikitaSergeevic/SNikitaSergeevic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white$link=https://www.linkedin.com/in/nikita-sysuev-697456370/)](https://www.linkedin.com/in/nikita-sysuev-697456370/)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on
